@@ -22,4 +22,13 @@ Leaderboard
 
 # PCA-EVAL V1.0
 
+| Model        | Contact        | P-Score | C-Score | A-Score |
+|:-------------|:------------------|:------|:------|:------|
+| GPT4-Vision           | Our paper | -  |
+| MMICL-13B       | Our paper | -  |
+| InstructBLIP          | Our paper | -  |
+
+
+
+
 # How to Submit
