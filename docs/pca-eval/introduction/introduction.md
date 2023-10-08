@@ -23,13 +23,19 @@ PCA-EVAL evaluates embodied decision making from **P**erception, **C**ognition a
 ---
 
 
-## Site logo
+## Embodied Decision Making
 
-```yaml
+## End-to-End Evaluation
+
+## HOELMS Evaluation
+
+## Contributors
+
+<!-- ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
-```
-
+``` -->
+<!-- 
 ## Site favicon
 
 ```yaml
@@ -330,4 +336,4 @@ just_the_docs:
 
 When *all* your pages are in a single collection, its name is not displayed.
 
-The navigation for each collection is a separate name space for page titles: a page in one collection cannot be a child of a page in a different collection, or of a normal page.
+The navigation for each collection is a separate name space for page titles: a page in one collection cannot be a child of a page in a different collection, or of a normal page. -->
