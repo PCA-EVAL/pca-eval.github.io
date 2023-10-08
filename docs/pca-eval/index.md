@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Configuration
-nav_exclude: true
+title: What is PCA-EVAL?
+nav_order: 1
+description: "PCA-EVAL Evaluates Embodied Decision Making from Perception, Cognition and Action"
+permalink: /
 ---
 
-# Configuration
-{: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
-{: .fs-6 .fw-300 }
+<!-- # Introduction
+{: .no_toc } -->
+
+PCA-EVAL evaluates embodied decision making from **P**erception, **C**ognition and **A**ction.
+{: .fs-6 .fw-500 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -18,7 +21,6 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
-View this site's [\_config.yml](https://github.com/just-the-docs/just-the-docs/tree/main/_config.yml) file as an example.
 
 ## Site logo
 
