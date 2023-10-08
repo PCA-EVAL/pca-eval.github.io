@@ -1,9 +1,10 @@
 ---
 layout: default
-title: What is PCA-EVAL?
-nav_order: 1
+title: Domains
+nav_order: 3
 description: "PCA-EVAL Evaluates Embodied Decision Making from Perception, Cognition and Action"
-permalink: /
+parent: What is PCA-EVAL?
+
 ---
 
 
