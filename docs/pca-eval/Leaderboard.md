@@ -1,21 +1,19 @@
 ---
 layout: default
 title: Leaderboard
-nav_order: 3
+nav_order: 4
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 ---
 
 Leaderboard
 {: .fs-9 }
 
+Under Construction ~
+
 ---
 
 
-## Table of contents
-{: .no_toc .text-delta }
 
-1. TOC
-{:toc}
 
 
 
@@ -31,4 +29,3 @@ Leaderboard
 
 
 
-# How to Submit
