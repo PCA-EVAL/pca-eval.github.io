@@ -36,8 +36,14 @@ pca-eval/data/v1.0/Open-World Game/end2end_prompts.json
 
 You can seamlessly pass both the image and the prompt to your multimodal model to obtain results.
 
-{: .note }
-The output for each instance should be saved line by line in a `.txt` file to facilitate automatic scoring.
+The output for each instance should be saved in json file, in the format of
+```json
+[
+    {"index":0,"model_output":"xxxxx"},
+    {"index":1,"model_output":"xxxxx"}, 
+]
+```
+
 
 ## HOLMES Method
 
@@ -51,8 +57,14 @@ pca-eval/evaluation/HOLMES_Game.ipynb
 
 
 
-{: .note }
-The output for each instance should be saved line by line in a `.txt` file to facilitate automatic scoring.
+
+The output for each instance should be saved in json file, in the format of
+```json
+[
+    {"index":0,"model_output":"xxxxx"},
+    {"index":1,"model_output":"xxxxx"},
+]
+```
 
 ## Automatic Scoring
 
@@ -61,7 +73,7 @@ We utilize the semantic parsing ability of powerful LLM like ChatGPT to conduct 
 ```bash
 python pca-eval/pca_auto_scoring.py \ 
     --meta_data  pca-eval/data/v1.0/Open-World Game/meta_data.json \  # path to the meta data
-    --model_output chatgpt_Autonomous_Driving_output.txt \  # path to model output, it should have equal or less lines than the number of instances in meta data
+    --model_output chatgpt_output.json \  # model output file in json format
     --openai_key sk-xxxxxxxxxx \  # your openai key
-    --output_path  chatgpt_Autonomous_Driving_result.json \  # path to save the result
+    --output_path  chatgpt_result.json \  # path to save the result
 ```
