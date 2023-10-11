@@ -2,7 +2,6 @@
 layout: default
 title: Leaderboard
 nav_exclude: true
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 ---
 
 Leaderboard

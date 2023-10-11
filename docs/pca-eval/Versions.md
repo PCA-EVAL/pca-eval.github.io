@@ -34,5 +34,5 @@ Liang Chen, Yichi Zhang, Shuhuai Ren, Haozhe Zhao, Zefan Cai, Yuchi Wang
 
 
 
-We warmly welcome additions of new domains, data, and models to PCA-EVAL as we are actively working to enlarge the benchmark in more realistic and interactive envrionments. If you're interested in contributing or joining our efforts, please don't hesitate to open an issue or a Pull Request on our [GitHub repository](https://github.com/pkunlp-icler/PCA-EVAL).
+We warmly welcome additions of new domains, data, and models to PCA-EVAL as we are actively working to enlarge the benchmark in more realistic and interactive envrionments. If you're interested in contributing or joining our efforts, please don't hesitate to open an issue/Pull Request on our [GitHub repository](https://github.com/pkunlp-icler/PCA-EVAL) or [email us](mailto:leo.liang.chen@outlook.com).
 
