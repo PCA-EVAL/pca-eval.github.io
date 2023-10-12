@@ -11,7 +11,7 @@ permalink: /
 **PCA-EVAL** is an innovative benchmark for evaluating multi-domain embodied decision-making, specifically focusing on the performance in perception, cognition, and action. It is proposed in paper "[Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond](https://arxiv.org/abs/2310.02071)".
 {: .fs-5.5 .fw-600 }
 
-<center>Liang Chen<sup>1</sup>, Yichi Zhang<sup>1</sup>, Shuhuai Ren<sup>1</sup>, Haozhe Zhao<sup>1</sup>, Zefan Cai<sup>1</sup>, Yuchi Wang<sup>1</sup>, <br>Tianyu Liu<sup>2</sup>, Baobao Chang<sup>1</sup> <br> <sup>1</sup>Peking University, <sup>2</sup>Tencent Cloud AI</center>
+<center>Liang Chen<sup>1</sup>, Yichi Zhang<sup>1</sup>, Shuhuai Ren<sup>1</sup>, Haozhe Zhao<sup>1</sup>, Zefan Cai<sup>1</sup>, Yuchi Wang<sup>1</sup>, <br>Peiyi Wang<sup>1</sup>, Tianyu Liu<sup>2</sup>, Baobao Chang<sup>1</sup> <br> <sup>1</sup>Peking University, <sup>2</sup>Tencent Cloud AI</center>
 {: .fs-5 .fw-600 }
 
 <br>
