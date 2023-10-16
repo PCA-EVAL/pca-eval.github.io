@@ -104,7 +104,7 @@ Within HOLMES, we prompt large language models like ChatGPT-3.5, GPT4 to call di
 ```bib
 @article{chen2023endtoend,
       title={Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond}, 
-      author={Liang Chen and Yichi Zhang and Shuhuai Ren and Haozhe Zhao and Zefan Cai and Yuchi Wang and Tianyu Liu and Baobao Chang},
+      author={Liang Chen and Yichi Zhang and Shuhuai Ren and Haozhe Zhao and Zefan Cai and Yuchi Wang and Peiyi Wang and Tianyu Liu and Baobao Chang},
       year={2023},
       journal={ArXiv},
 }
